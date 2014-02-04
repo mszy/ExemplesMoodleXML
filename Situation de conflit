@@ -1,0 +1,12 @@
+Comment rentrer en conflit : 
+
+
+User 1 : git clone git@github.com:blabla/blablabla.git
+User 2 : git clone git@github.com:blabla/blablabla.git
+
+User 1 : [modification d'un fichier truc]
+User 2 : [modification d'un fichier truc]
+
+User 1 : git push
+User 2 : git push
+
